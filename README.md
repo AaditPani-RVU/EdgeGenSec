@@ -53,8 +53,8 @@ To enhance real-time intrusion detection by training models with a blend of real
 
 - [x] Baseline MobileNetV2 IDS model
 - [x] GAN prototype for attack generation
-- [ ] Discriminator training and validation
-- [ ] Integration pipeline for real + synthetic data
+- [x] Discriminator training and validation
+- [x] Integration pipeline for real + synthetic data
 - [ ] End-to-end optimization for RPi deployment
 - [ ] Evaluation on live traffic streams
 
